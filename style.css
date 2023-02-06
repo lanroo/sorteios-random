@@ -27,10 +27,12 @@ button:hover {
 }
   
   #resultado {
-    font-size: 60px;
+    font-size: 46px;
     font-weight: bold;
     margin-top: 163px;
-    margin-left: -10px;
+    margin-left: -63px;
+    white-space: nowrap;
+}
   }
 
   p {
